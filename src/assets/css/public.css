@@ -1,0 +1,145 @@
+.cursor{
+    cursor: pointer;
+}
+
+.dfw{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ml10{
+    margin-left: 10px;
+}
+.ml20{
+    margin-left: 20px;
+}
+.ml30{
+    margin-left: 30px;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mt20{
+    margin-top: 20px;
+}
+.mt30{
+    margin-top: 30px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.mr20{
+    margin-right: 20px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.mb20{
+    margin-bottom: 20px;
+}
+.mb30{
+    margin-bottom: 30px;
+}
+
+.pl10{
+    padding-left: 10px;
+}
+.pl20{
+    padding-left: 20px;
+}
+.pt10{
+    padding-top: 20px;
+}
+.pt20{
+    padding-top: 20px;
+}
+.pr10{
+    padding-right: 10px;
+}
+.pr20{
+    padding-right: 20px;
+}
+.pb10{
+    padding-bottom: 10px;
+}
+.pb20{
+    padding-bottom: 20px;
+}
+.bd1{
+    border: 1px solid #ccc;
+}
+
+.bgfff{
+    background: #fff;
+}
+.df{
+    display: flex;
+}
+.dfc{
+    display: flex;
+    align-items: center;
+}
+.dfcc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dfcs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+td{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.fs16{
+    font-size: 16px;
+}
+.fs18{
+    font-size: 18px;
+}
+.fs20{
+    font-size: 20px;
+}
+.fs24{
+    font-size: 24px;
+}
+.fs26{
+    font-size: 26px;
+}
+.fs28{
+    font-size: 28px;
+}
+.fs30{
+    font-size: 30px;
+}
+
+.text2{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: break-all;
+}
+
+.text1{
+    overflow: hidden;text-overflow: ellipsis;white-space: nowrap;
+}
+
+.iconsize30{
+    font-size: 30px;
+
+}
+.iconsize20{
+    font-size: 20px;
+}
+.iconsize18{
+    font-size: 18px;
+}
+.iconsize14{
+    font-size: 14px;
+}
+
